@@ -34,12 +34,17 @@ This is a high-converting **LinkedIn Profile Optimization Website** designed to 
 ## ✨ Features
 
 ✔ Modern UI/UX (Clean & Conversion Focused)
-✔ WhatsApp Direct Lead System
-✔ Fully Responsive Design
-✔ SEO Optimized Pages
-✔ Personal Branding Focus
-✔ Fast Performance (Vite + React)
 
+✔ WhatsApp Direct Lead System
+
+✔ Fully Responsive Design
+
+✔ SEO Optimized Pages
+
+✔ Personal Branding Focus
+
+✔ Fast Performance (Vite + React)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <!-- WAVE DIVIDER --><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
 ## 🛠️ Tech Stack
@@ -117,7 +122,7 @@ linkedin/
 ## 📲 Live Demo
 
 <p align="center">
-  <a href="https://your-live-site-link.com">
+  <a href="https://linkedinwithyasir.vercel.app/">
     <img src="https://img.shields.io/badge/View_Live_Site-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -133,7 +138,9 @@ linkedin/
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%"/>
 
+
 ## 👨‍💻 Author
+
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/223332147?v=4" width="120" style="border-radius:50%" />
@@ -141,7 +148,7 @@ linkedin/
 
 <p align="center">
   <b>Muhammad Yasir</b><br/>
-  LinkedIn Growth Expert | Full Stack Developer
+   Full Stack Developer | LinkedIn Growth Expert
 </p>
 
 <p align="center">
@@ -169,11 +176,22 @@ linkedin/
 
 ---
 
+
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer"/>
+<img src="https://komarev.com/ghpvc/?username=YasirAwan4831&label=Profile%20Views&color=00e5a0&style=flat-square" />
+<img src="https://img.shields.io/github/followers/YasirAwan4831?style=social" />
+<img src="https://img.shields.io/github/stars/YasirAwan4831?style=social" />
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%" />
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=LinkedIn%20With%20Yasir&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Profile%20Optimization%20%7C%20Personal%20Branding%20Expert&descAlignY=55&descSize=18" width="100%" />
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-Y
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
